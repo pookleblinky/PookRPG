@@ -1,0 +1,15 @@
+Snafu: needs a character and relationship heavy engine, a lookup table for
+generating the immediate aftermath of the heist, and simple mechanics for
+cinematically dealing with their situation.
+
+Containment: a clue system for figuring out the properties of the
+SCP from the preliminary field reports and field tests. Say, there's 13 pieces
+of information the investigators need to know, 6 of which are core clues. In act
+2, one or more of those 7 unknowns will allow the item to breach containment.
+GUMSHOE could work, to ensure they'll have *some idea* of how to contain it, but
+guarantee that the containment will almost certainly fail unless they were
+extremely lucky. 
+
+Cabin: Act 1: a system for building plans, designing traps and such. Players
+gotta get into the mindset of the people designing the ritual. Act 2: for the
+researchers, a continuation. For the players, a low-crunch cinematic system. 
