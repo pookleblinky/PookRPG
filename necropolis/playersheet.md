@@ -15,6 +15,7 @@ You have 5 stats, which can range from -1 to +3. These stats are added onto a
 - Tough
 - Streetwise
 - Weird
+- Rx
 
 # Moves
 
@@ -47,4 +48,15 @@ Certain races, classes, and levels of augmentation provide extra moves, or
 bonuses to these moves. You'll be more intimidating if you're a 10 foot tall
 were-badger with titanium claws, etc.
 
+# Relationships
+
+Each character has a relationship to the other player characters, NPC's, and the
+various organizations controlling the city.
+
+This relationship is a separate stat, Rx. 
+
+TODO: create PC/Lord relationship mechanic
+
 # Harm Clock
+
+TODO: good genre-appropriate harm clock
