@@ -2,7 +2,8 @@ Read Waggoner's Nekropolis Archives.
 
 An eternally dark city in the shape of a pentagram, in an infinite black plain
 of nothingness. It's full of demons, folkloric monsters, nightmares, and
-literally everything wants to kill you.
+literally everything wants to kill you. The city is divided into 5 sections,
+each controlled by an immensely powerful Dark Lord.
 
 You can play a couple races: demon, lycan, vampire, arcane, etc.
 
