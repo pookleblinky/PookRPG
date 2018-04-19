@@ -14,8 +14,7 @@ You have 5 stats, which can range from -1 to +3. These stats are added onto a
 - Hot
 - Tough
 - Streetwise
-- Weird
-- Rx
+- Weirdwise
 
 # Moves
 
@@ -33,20 +32,12 @@ Every move triggers a roll of 2d6 plus appropriate modifier. 10+, you succeed.
 7-9, you partially succeed but take some consequence. 6-, you fail and the GM
 can make a hard move.
 
-Here are some moves everyone can do:
-
-- Defy Danger, relevant stat
-- Fight, Tough
-- Examine stuff thoroughly, Cool
-- Make/fix something, Streetwise
-- Do something through stress, Hot
-- Persuade, Cool (or Weird where appropriate)
-- Intimidate, Hot
-- Read a person, Cool
+Check playermoves.md to see basic moves every PC can do.
 
 Certain races, classes, and levels of augmentation provide extra moves, or
 bonuses to these moves. You'll be more intimidating if you're a 10 foot tall
-were-badger with titanium claws, etc.
+were-badger with titanium claws, etc. Check playbooks/ for custom moves
+available on top of basic moves.
 
 # Relationships
 
