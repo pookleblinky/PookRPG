@@ -21,7 +21,7 @@ TODO: make stats corporate buzzwords like Synergy and such.
 
 # Agenda:
 
-- Make the Supervillain Lair seem real
+- Make supervillainy seem real
 - Make the character's lives interesting.
 - Play to find out what happens.
 
