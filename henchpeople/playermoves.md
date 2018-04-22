@@ -6,7 +6,7 @@ roll 2d6 plus a modifier.
 Moves are triggered when there's a consequence or cost to making the wrong
 decision, when they can fail interestingly. If there's no chance of failure
 (stabbing a defenseless person) or success (persuading someone to give you all
-their clothes and then jump into a swarm of zombies as bait), the GM can tell
+their clothes and then jump into the tank of cyborg sharks as bait), the GM can tell
 you there's no need to roll for it. It'll either obviously succeed or inevitably
 fail. Rolling a 12+ means you do something possible to do, exceptionally well.
 It doesn't mean you do the impossible. At the same time, rolling a 1 (2 with a
@@ -45,8 +45,22 @@ All PC's have some basic moves they can do.
      - What should I be wary of?
      - What is the most dangerous threat here?
 
-- Disruptive Technology, Innovation. When you attempt to use your professional
-  skills to accomplish something.
+- Consult Employee Manual, Innovation. When you need to learn what the rules
+  are.
+
+     On result:
+       - 10+: Pick 3 questions to ask
+       - 7-9: Pick 1
+       - 6-: GM can make a move
+
+     Questions:
+       - Who's in charge here?
+       - What are my responsibilities here?
+       - What's the history of this rule?
+       - How do people usually get around this rule?
+
+- Utilizing Professional Resources, Innovation. When you attempt to use your
+  professional skills to accomplish something.
 
    On result:
      - 10+: You succeed
@@ -73,6 +87,7 @@ All PC's have some basic moves they can do.
      - What do they want?
      - How can I persuade them?
      - Is their cooperation useful to me?
+     - What is their corporate responsibility in this situation?
 
 - Threaten to Downsize, Leverage. When you try to intimidate another person
 
@@ -90,9 +105,9 @@ All PC's have some basic moves they can do.
 TODO: Work on better names, add a few more basic moves. Tighten up assessing
 moves.
 
-Certain items in possession can add modifiers to these rolls. If you have a
-weapon, you may add +1 to an Intimidate roll, for instance. If you're trying to
-fix something, having an appropriate tool could add a +1. 
+Certain items in possession can add modifiers to these rolls. If you have the
+proper form, you may add +1 to an intimidation roll, for instance. If you're
+trying to fix something, having an appropriate tool could add a +1. 
 
 Certain rolls can confer a forward modifier. If you roll +10 on Exercise Due
 Diligence your next action could get a +1 modifier added to it, for instance.
