@@ -23,4 +23,3 @@ bonds.
 - I trust XXX's fashion advice implicitly. (+1)
 - XXX and I share a secret injoke about the Boss (+1)
 - XXX has this annoying habit that bugs me every single day. (-1)
-

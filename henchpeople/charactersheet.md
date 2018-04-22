@@ -2,7 +2,7 @@
 
 # Stats
 
-# Risk Clocks
+# Clocks
 
 # Relationships with others (Teamwork questionnaire)
 
