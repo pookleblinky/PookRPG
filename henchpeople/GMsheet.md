@@ -51,6 +51,7 @@ trigger through their actions.
 - Put someone in a high-stakes situation.
 - Trade harm for harm (as established).
 - Deal harm (as established).
+- Fill their inbox with corporate horrors
 - Announce off-screen badness.
 - Announce future badness.
 - Take away one of their Things.
