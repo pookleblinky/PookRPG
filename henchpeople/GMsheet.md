@@ -65,7 +65,11 @@ trigger through their actions.
 The supervillain has a plan that is ticking toward completion in phases. The
 Good Guy has a plan that is ticking down til he bursts in spraying gunfire and
 one-liners. And maybe the sharks with lasers on their heads also have a plan
-ticking down toward a goal.
+ticking down toward a goal. Maybe the Legal Department is making a contract with
+at elder god.
+
+Make several clocks, with various segments. Use them liberally to produce a
+vibrant supervillain organization.
 
 
 # Helpful links
