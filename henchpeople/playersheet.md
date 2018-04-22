@@ -47,15 +47,16 @@ rolling dice, that dopamine kick from a successful gamble. Your barbarian just
 does a murder and steals the withered potato she was bringing home for her
 starving grandchild. You monster.
 
-# Harm Clock
+# Harm Clocks
 
-Odds are, you don't know your pulse right now, or what your VO2 stat is. Odds
-are, you have no idea how to tell you've broken a rib or punctured a spleen. So,
-it's not realistic to have a solid number of hitpoints.
+You have 2 types of harm clocks:
 
-Instead, you get an abstraction, a harm clock. Every time you're hurt, the clock
-fills up a little, and every time you heal it backs down a bit. Think of it this
-way: in real life, a toothache can kill you. A cat bite can paralyze your arm.
-Falling off a bike can rupture your kidney. You generally don't know exactly how
-fucked up you are, but you can usually tell that you're more fucked up than
-you were a few minutes earlier.
+1. Health clock, standard PBtA clock divided into quarters, then the last
+   quarter divided into thirds.
+
+2. Employment Prospects clocks. Your boss has a clock for whether you get fired.
+   Legal has one for whether they'll sue you. Etc. You have several clocks based
+   on who you are pissing off, and when they fill something unpleasant will
+   happen to you. Maybe the High Energy Physics department will aim a microwave
+   beam at your office. Things can and will snowball until part of the
+   organization is waging a proxy way against you.
