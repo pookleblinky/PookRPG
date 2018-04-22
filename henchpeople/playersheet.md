@@ -60,6 +60,3 @@ way: in real life, a toothache can kill you. A cat bite can paralyze your arm.
 Falling off a bike can rupture your kidney. You generally don't know exactly how
 fucked up you are, but you can usually tell that you're more fucked up than
 you were a few minutes earlier.
-
-You're playing yourself, and you are *extremely* squishy in real life. Try not
-to get hurt.
