@@ -71,6 +71,16 @@ at elder god.
 Make several clocks, with various segments. Use them liberally to produce a
 vibrant supervillain organization.
 
+# Inbox as sanity
+
+On failed rolls, you can fill a player's inbox. As it fills, they get
+increasingly bizarre, harmful, and encumbering regulations and memos. 
+
+Note: may add in a Veil-style stress mechanic that allows players to clear out
+their inboxes. Or, a Blades in the Dark style downtime phase where players can
+just go about trying to work through weird action items. It really depends on
+how the players want to play, so I'd prefer to keep this open and minimal so it
+can be adapted however wanted.
 
 # Helpful links
 
