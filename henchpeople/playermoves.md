@@ -96,11 +96,13 @@ All PC's have some basic moves they can do.
      - 7-9: They do what you want, but at a cost
      - 6-: GM makes a move
 
-- Synergize, Synergy. When you help another player, they get a +1 to their move
-  and their Teamwork stat toward you increases by 1.
-  If you hinder them, they get a -1 to their move and their Teamwork stat toward
-  you decreases by 1. 
-
+- Synergize, Synergy. When you help or hinder another player, roll your Teamwork
+  stat with them.
+  
+     On result:
+       - 10+: They get +2/-2 on their roll.
+       - 7-9: They get +2/-2 on their roll *if* you accept a cost
+       - 6-: You don't affect them significantly, and GM can make a move.
 
 TODO: Work on better names, add a few more basic moves. Tighten up assessing
 moves.
