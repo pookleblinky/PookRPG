@@ -59,4 +59,20 @@ You have 2 types of harm clocks:
    on who you are pissing off, and when they fill something unpleasant will
    happen to you. Maybe the High Energy Physics department will aim a microwave
    beam at your office. Things can and will snowball until part of the
-   organization is waging a proxy way against you.
+   organization is waging a proxy way against you. And finally, the good guy has
+   a clock that determines how likely you are to be one of the expendable
+   henchpeople he kills when trying to stop your boss.
+
+# Exit Interviews and Onboarding
+
+If your character dies, goes missing, or is transformed into a dog or such, an
+exit interview slash going away party slash funeral will be held. Your next
+character will begin with a job interview where they will be hired by the
+supervillain organization. 
+
+There may be cake and tears and hors d oeuvres and cheesy Muzak versions of the
+PC's favorite songs. There will definitely be an opportunity for
+interdepartmental conflict. 
+
+PC's can organize gofundmes for the families of coworkers who suffer
+occupational hazards like malfunctioning laser cannons or smarmy British spies.
