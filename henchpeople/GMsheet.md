@@ -17,8 +17,6 @@ trigger through their actions.
 - Innovation: calculating/methodical
 - Synergy: Inquisitive/exploratory
 
-TODO: make stats corporate buzzwords like Synergy and such.
-
 # Agenda:
 
 - Make supervillainy seem real
