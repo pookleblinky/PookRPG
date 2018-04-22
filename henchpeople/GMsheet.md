@@ -43,7 +43,8 @@ TODO: make stats corporate buzzwords like Synergy and such.
 - Think offscreen, too.
 - Sometimes, reflect a question back upon the players.
 - Make the characters aware that they are not the protagonist. The protagonist
-  is currently doing a preparation montage elsewhere.
+  is currently doing a preparation montage elsewhere, or ordering a martini on a
+  Caribbean island.
 
 # Moves (from quickstart guide):
 
