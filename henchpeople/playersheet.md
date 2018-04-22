@@ -16,7 +16,8 @@ You have 5 stats, which can range from -1 to +2. These stats are added onto a
 - Innovation: calculating/methodical
 - Synergy: inquisitive/exploratory
 
-There's a sixth stat, Teamwork, to track relationships with other PC's.
+There's a sixth stat, Teamwork, to track relationships with other PC's. Look at
+teamwork.md for how you build these relationships in Session 0.
 
 TODO: flesh out how relationships work
 
