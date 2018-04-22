@@ -27,7 +27,7 @@ TODO: make stats corporate buzzwords like Synergy and such.
 
 # Principles (right from the quickstart guide):
 
-- Barf forth supervillainy.
+- Barf forth corporate supervillainy.
 - Make the world seem real.
 - Build a bigger world through play.
 - Create interesting dilemmas, not interesting plots.
