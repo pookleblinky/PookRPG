@@ -49,12 +49,17 @@ starving grandchild. You monster.
 
 # Harm Clocks
 
-You have 2 types of harm clocks:
+You have 3 types of harm clocks:
 
 1. Health clock, standard PBtA clock divided into quarters, then the last
    quarter divided into thirds.
 
-2. Employment Prospects clocks. Your boss has a clock for whether you get fired.
+2. Sanity clock that represents your inbox. As your inbox fills, you get
+   progressively more bizarre restrictions and regulations. Once it fills
+   completely, you may find you've accidentally been declared legally dead and
+   HR is demanding you provide a death certificate.
+
+3. Employment Prospects clocks. Your boss has a clock for whether you get fired.
    Legal has one for whether they'll sue you. Etc. You have several clocks based
    on who you are pissing off, and when they fill something unpleasant will
    happen to you. Maybe the High Energy Physics department will aim a microwave
