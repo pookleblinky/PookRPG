@@ -26,10 +26,10 @@ All PC's have some basic moves they can do.
 - Exercise Due Diligence, Agile. When you have to ignore a threat to do something.
 
    On result:
-      - 10+: You succeed
-      - 7-9: You succeed, but stumble, fumble, or freeze. GM gives you a hard
+     - 10+: You succeed
+     - 7-9: You succeed, but stumble, fumble, or freeze. GM gives you a hard
         choice or worse outcome.
-      - 6-: GM makes a move
+     - 6-: GM makes a move
 
 - Analyze the Opportunity, Agile. When you search a location thoroughly and
   there is an interesting consequence to not knowing the answers.
