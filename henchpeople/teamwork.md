@@ -7,7 +7,7 @@ other outside work? Are they your arch-nemesis? etc.
 You do this by answering short questionnaires, and totalling the Friend and Foe
 bonds.
 
-# Basic Questionaire
+# Basic Questionnaire
 
 - XXX and I have sung karaoke together (+1)
 - I know a secret about XXX that could get them fired, and they know one about
