@@ -105,7 +105,8 @@ All PC's have some basic moves they can do.
        - 6-: You don't affect them significantly, and GM can make a move.
 
 TODO: Work on better names, add a few more basic moves. Tighten up assessing
-moves.
+moves. Integrate how much inbox harm the GM can throw at a player for failing a
+roll.
 
 Certain items in possession can add modifiers to these rolls. If you have the
 proper form, you may add +1 to an intimidation roll, for instance. If you're
