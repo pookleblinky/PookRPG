@@ -70,6 +70,10 @@ ticking down toward a goal.
 
 # Helpful links
 
+Setting: [Peter's Evil Overlord List](http://www.eviloverlord.com/lists/overlord.htm)
+
+PBtA:
+
 - http://apocalypse-world.com/forums/index.php?topic=2223.0 AW GM Moves
 - http://theangrygm.com/five-simple-rules-for-dating-my-teenaged-skill-system/
 - http://theangrygm.com/four-things-youve-never-heard-of-that-make-encounters-not-suck/
