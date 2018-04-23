@@ -19,7 +19,7 @@ trigger through their actions.
 
 # Agenda:
 
-- Make supervillainy seem real
+- Make corporate supervillainy seem real
 - Make the character's lives interesting.
 - Play to find out what happens.
 
