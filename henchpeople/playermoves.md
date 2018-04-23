@@ -104,6 +104,9 @@ All PC's have some basic moves they can do.
        - 7-9: They get +2/-2 on their roll *if* you accept a cost
        - 6-: You don't affect them significantly, and GM can make a move.
 
+     Keep track of when a move is successfully helped. When a move has been
+     successfully helped 3 times, it gains a permanent +1 modifier.
+
 TODO: Work on better names, add a few more basic moves. Tighten up assessing
 moves. Integrate how much inbox harm the GM can throw at a player for failing a
 roll.
