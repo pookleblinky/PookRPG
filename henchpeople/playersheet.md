@@ -70,6 +70,14 @@ You have 3 types of harm clocks:
    a clock that determines how likely you are to be one of the expendable
    henchpeople he kills when trying to stop your boss.
 
+# Experience
+
+Characters become more powerful by cooperation, not by squirreling away points
+to spend.
+
+Track when your PC is helped by another. When a specific move is successfully
+given help 3 times, that move becomes permanently more powerful.
+
 # Exit Interviews and Onboarding
 
 If your character dies, goes missing, or is transformed into a dog or such, an
