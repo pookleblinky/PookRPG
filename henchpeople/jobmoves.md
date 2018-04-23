@@ -1,4 +1,2 @@
-There are 8 jobs your character can have, each of which provides you with
-special player moves on top of basic player moves.
-
-TODO: come up with some good character types
+Check in playbooks/ to see character classes you can play, and their special
+moves.
