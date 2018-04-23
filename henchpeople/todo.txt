@@ -1,8 +1,14 @@
 orgchart
 department triggers
 clocks
-character jobs
 example orgs
 grab lair maps from actual billionaires
 inbox moves
 inbox examples?
+codemonkey details
+grizzled programmer detaials
+IT details
+labtech details
+janitor details
+secretary details
+security details
