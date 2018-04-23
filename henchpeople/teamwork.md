@@ -23,3 +23,14 @@ bonds.
 - I trust XXX's fashion advice implicitly. (+1)
 - XXX and I share a secret injoke about the Boss (+1)
 - XXX has this annoying habit that bugs me every single day. (-1)
+
+# Experience is Cooperation
+
+PC's don't get more powerful in a vacuum. They get more powerful by
+cooperating with each other.
+
+When a player triggers the Synergize move to help another player's move, they
+roll their Teamwork stat toward the other player. If it's successful, this is
+tracked. After a move has been successfully helped 3 times, that move becomes
+permanently more powerful (a permanent +1 modifier, it does something special on
+12+ rolls, etc). With more help, maybe a player can make a new move.
