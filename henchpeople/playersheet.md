@@ -35,7 +35,9 @@ Every move triggers a roll of 2d6 plus appropriate modifier. 10+, you succeed.
 7-9, you partially succeed but take some consequence. 6-, you fail and the GM
 can make a hard move.
 
-There are some moves everyone can do, check playermoves.md for details.
+There are some moves everyone can do, check playermoves.md for details. On top
+of that, each character type has their own special moves, check the playbooks
+folder.
 
 In D&D, there's a tendency for players to become murderhobos, just killing
 everything they see. D&D gives you a reward for doing so: you get to roll dice
