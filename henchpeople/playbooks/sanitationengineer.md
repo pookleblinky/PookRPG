@@ -10,3 +10,15 @@ cleaning shit you've ever heard of.
 # Skills
 
 # Gear
+
+# Example build
+
+They hired you to push a broom, not attach lasers to sharks or make rabies
+airbourne. Still, maybe you
+
+     Are Invisible. You can walk around in plain sight with no one paying
+     attention.
+
+or you
+
+     Can Go Anywhere. You've got a badge that opens damn near every door.
