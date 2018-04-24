@@ -8,3 +8,24 @@ to let him know.
 # Skills
 
 # Gear
+
+# Example build
+
+Where do I even start? You can
+
+    Know Where the Bodies are Buried
+
+or
+
+    Make A Clerical "Error"
+
+or 
+
+    Leak Data
+
+or
+
+    Call Literally Anyone
+
+You are arguably the most powerful character. Whatever moves you make, should
+reflect that you are where the buck stops.
