@@ -19,3 +19,9 @@ generation in session 0.
 # Gear
 
 Characters should have 1 move based on what they have as part of their jobs.
+
+# Example builds
+
+Make your own custom moves, it'll be more fun and will let you tailor the game
+to the setting you want. I'll provide a few examples of how you can build your
+character.
