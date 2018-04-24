@@ -8,3 +8,19 @@ day.
 # Skills
 
 # Gear
+
+# Example build
+
+You
+
+     Know All the Passwords
+
+and
+
+     Know all the Perverts
+
+and you
+
+     Literally Run the Security Cameras
+
+It should not be hard to come up with some moves.
