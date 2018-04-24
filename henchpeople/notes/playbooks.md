@@ -1,3 +1,8 @@
+Hm. Do I make the moves or just let the players make the moves themselves?
+
+Given that I want the game to work for anything from Umbrella Corp to an Adam
+West villain, maybe it's better to let players DIY it.
+
 Structure:
 
 # Basics
