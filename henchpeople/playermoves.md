@@ -21,7 +21,8 @@ this pretty quickly.
 
 # Basic moves
 
-All PC's have some basic moves they can do.
+All PC's have some basic moves they can do. In addition, each playbook provides
+3 moves specific to the PC's occupation.
 
 - Exercise Due Diligence, Agile. When you have to ignore a threat to do something.
 
@@ -107,8 +108,7 @@ All PC's have some basic moves they can do.
      Keep track of when a move is successfully helped. When a move has been
      successfully helped 3 times, it gains a permanent +1 modifier.
 
-TODO: Work on better names, add a few more basic moves. Tighten up assessing
-moves. Integrate how much inbox harm the GM can throw at a player for failing a
+TODO: Integrate how much inbox harm the GM can throw at a player for failing a
 roll.
 
 Certain items in possession can add modifiers to these rolls. If you have the
