@@ -8,7 +8,7 @@ You do this by answering short questionnaires.
 
 The person who shows up the most times in friendly contexts, you get a +2
 toward. Others who show up Friendly more often than Foe, get +1. PC's who are
-more Foe than Friend, get a -1.
+more Foe than Friend, get a -1. 
 
 # Basic Questionnaire
 
@@ -36,4 +36,4 @@ When a player triggers the Synergize move to help another player's move, they
 roll their Teamwork stat toward the other player. If it's successful, this is
 tracked. After a move has been successfully helped 3 times, that move becomes
 permanently more powerful (a permanent +1 modifier, it does something special on
-12+ rolls, etc). With more help, maybe a player can make a new move.
+12+ rolls, etc). With more help, maybe a player can make a new move. 
