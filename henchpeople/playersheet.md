@@ -17,7 +17,8 @@ You have 5 stats, which can range from -1 to +2. These stats are added onto a
 - Synergy: inquisitive/exploratory
 
 There's a sixth stat, Teamwork, to track relationships with other PC's. Look at
-teamwork.md for how you build these relationships in Session 0.
+teamwork.md for how you build these relationships in Session 0. Teamwork can be
+between -2 and +2.
 
 # Moves
 
