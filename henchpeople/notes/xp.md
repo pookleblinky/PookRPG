@@ -14,3 +14,7 @@ squirrelling away points.
 There is already a mechanic for helping other PC's. One idea: track when PC's
 help another's move. Once they help a move 3 times, that move becomes
 permanently more powerful.
+
+What to do after that?
+
+12+ gets an extra narrative meaning? Make a new move?
