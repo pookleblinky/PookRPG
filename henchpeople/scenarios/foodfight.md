@@ -10,3 +10,15 @@ solid objects, whatever.
 This is a normal Tuesday. PC's should not be given the opportunity to attempt to
 save the day or do anything that'll get them fired. The goal is to get them to
 survive what is just an average lunchbreak. 
+
+# Setting
+
+TODO
+
+# Bystanders
+
+TODO
+
+# Hooks
+
+TODO
