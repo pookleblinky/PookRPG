@@ -6,7 +6,7 @@ quickly, notice things quickly, etc.
 
 High agile + high Innovation = sciencey types. 
 
-I think a high Agile would be good for Security. 
+I think a high Agile would be good for Security.
 # Dynamism: Persuasive/assertive
 A character with high Dynamism is definitely not a labrat, definitely not a
 codemonkey. I am thinking more like Legal or Sales/Marketing.
@@ -19,4 +19,14 @@ High innovation: definitely a grizzled programmer or lab rat.
 # Synergy: Inquisitive/exploratory
 High Synergy: labrat, hm.
 
+# Jobs
 
+
+codemonkey.md
+grizzledprogrammer.md
+IT.md
+labtech.md
+readme.md
+sanitationengineer.md
+secretarialmafia.md
+security.md
