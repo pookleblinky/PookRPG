@@ -13,3 +13,4 @@ janitor details
 secretary details
 security details
 test teamwork math
+make archetypes then rewrite playbooks toward them
