@@ -6,11 +6,16 @@ This normal PBtA clock tracks your physical health. 4 quadrants, the last of
 which is divided into three. You may get physically damaged, but odds are you'll
 get psychologically damaged much more often.
 
+You can use a harm track as in Shadowrun if you want, it doesn't matter.
+Whichever is easier and makes more sense.
+
 # Sanity Clock
 
 This tracks your inbox. As it fills, you get progressively more bizarre action
 items and memos until eventually you're accidentally declared legally dead or
 such. 
+
+You can use a track instead of a clock, whichever is easier.
 
 The GM can fill your inbox on failing rolls. 
 
