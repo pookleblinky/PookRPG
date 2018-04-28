@@ -97,7 +97,7 @@ All PC's have some basic moves they can do. In addition, each playbook provides
      - 7-9: They do what you want, but at a cost
      - 6-: GM makes a move
 
-- Synergize, Synergy. When you help or hinder another player, roll your Teamwork
+- Synergize, Teamwork. When you help or hinder another player, roll your Teamwork
   stat with them.
   
      On result:
@@ -106,7 +106,8 @@ All PC's have some basic moves they can do. In addition, each playbook provides
        - 6-: You don't affect them significantly, and GM can make a move.
 
      Keep track of when a move is successfully helped. When a move has been
-     successfully helped 3 times, Teamwork and Experience are both adjusted.
+     successfully helped 3 times, Teamwork and Experience are both adjusted
+     (check Teamwork.md).
 
 TODO: Integrate how much inbox harm the GM can throw at a player for failing a
 roll.
