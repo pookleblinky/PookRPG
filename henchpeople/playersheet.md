@@ -20,6 +20,13 @@ There's a sixth stat, Teamwork, to track relationships with other PC's. Look at
 teamwork.md for how you build these relationships in Session 0. Teamwork can be
 between -2 and +2.
 
+# Skills
+
+Unlike Call of Cthulhu or Shadowrun, there are no skillchecks. Instead, your
+character has skills related to their job, and using those skills simply
+triggers a move if applicable. It is up to you to convince the GM that you know
+how to do something.
+
 # Moves
 
 This is not D&D, you don't get to just say "I roll strength" or such. You don't
