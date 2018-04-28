@@ -19,6 +19,7 @@ generation in session 0.
 # Gear
 
 Characters should have 1 move based on what they have as part of their jobs.
+This includes access permissions.
 
 # Example builds
 
