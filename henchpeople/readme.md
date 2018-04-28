@@ -20,6 +20,10 @@ accomplish? What was your job? How long have you worked here? Why don't you like
 it? What are *you* trying to accomplish? How are these other people connected to
 you? Which one of them has faved a picture of your cat on social media?
 
+Players can refer to onboarding.md for interview questions in character
+generation, and teamwork.md for establishing relationships with other
+characters.
+
 # Clocks, everywhere
 
 Your boss has a clock counting down til their evil supervillain goal. Each
