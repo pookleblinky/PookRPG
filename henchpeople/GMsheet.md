@@ -15,7 +15,7 @@ trigger through their actions.
 - Dynamism: persuasive/assertive
 - Leverage: aggressive/forceful
 - Innovation: calculating/methodical
-- Synergy: Inquisitive/exploratory
+- Curiosity: Inquisitive/exploratory
 
 # Agenda:
 
