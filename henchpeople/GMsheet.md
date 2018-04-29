@@ -77,6 +77,10 @@ vibrant supervillain organization.
 On failed rolls, you can fill a player's inbox. As it fills, they get
 increasingly bizarre, harmful, and encumbering regulations and memos. 
 
+You can represent the inbox as a clock, or as a harm track. Either way, all it
+is a way to disguise your GM moves and allow you to make increasingly hard
+moves. 
+
 Note: may add in a Veil-style stress mechanic that allows players to clear out
 their inboxes. Or, a Blades in the Dark style downtime phase where players can
 just go about trying to work through weird action items. It really depends on
